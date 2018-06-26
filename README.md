@@ -1,4 +1,4 @@
-### Here's Our New repository for grassroots projects born in the community
+#### Here is our [new repository](https://github.com/ledgerz/grassroots) for grassroots projects born in the community
 
 
 ## old-Project Ideas
