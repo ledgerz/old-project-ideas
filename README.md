@@ -1,3 +1,7 @@
-# Project Ideas
+### Here's Our New repository for grassroots projects born in the community
 
-This repo is to collect and decide on project ideas. You can find them within the [issues](https://github.com/ledgerz/project-ideas/issues).
+
+## old-Project Ideas
+
+This repo was used to collect and decide on project ideas. You could find them within the [issues](https://github.com/ledgerz/old-project-ideas/issues).
+
